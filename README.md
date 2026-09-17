@@ -13,13 +13,14 @@ Aplicación web cliente-servidor desarrollada para la detección y diagnóstico 
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS inline (Dark Theme).
 
 ## Arquitectura del Proyecto
+```text
 .
 ├── server.js          # Servidor Backend Express (Procesamiento de ping y nslookup)
 ├── src/
 │   └── App.jsx        # Interfaz gráfica cliente en React (Validación, iteración e interfaz)
 ├── .gitignore         # Archivo de exclusión para Git
 └── package.json       # Configuración de módulos y dependencias
-
+```
 ## Historial de Desarrollo 
 
 ### 14/9: Arquitectura Base, Backend e Integración de Red
@@ -62,16 +63,17 @@ Aplicación web cliente-servidor desarrollada para la detección y diagnóstico 
    ```bash
    git clone [https://github.com/Raxter97/Actividad-de-redes-ind.git](https://github.com/Raxter97/Actividad-de-redes-ind.git)
    cd Actividad-de-redes-ind
-
+  
 Iniciar el Servidor Backend:
  ```bash
 cd Backend
 npm install express cors
 node server.js
-
+```
 Iniciar la Aplicación Frontend:
 En una segunda terminal:
 ```bash
 cd Frontend
 npm install
 npm run dev
+```
