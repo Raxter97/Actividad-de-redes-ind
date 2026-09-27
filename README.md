@@ -61,7 +61,7 @@ Aplicación web cliente-servidor desarrollada para la detección y diagnóstico 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Raxter97/Actividad-de-redes-ind.git](https://github.com/Raxter97/Actividad-de-redes-ind.git)
+   git clone https://github.com/Raxter97/Actividad-de-redes-ind.git
    cd Actividad-de-redes-ind
   
 Iniciar el Servidor Backend:
