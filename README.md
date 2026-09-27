@@ -77,3 +77,4 @@ cd Frontend
 npm install
 npm run dev
 ```
+Una vez iniciado el servidor de desarrollo, accede desde el navegador a `http://localhost:5173` (o presiona la tecla `o` y luego `Enter` en la segunda terminal ).
